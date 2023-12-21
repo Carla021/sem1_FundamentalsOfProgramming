@@ -1,0 +1,16 @@
+12,George,914
+14,Bogdan,916
+15,Elena,917
+18,Luiza,917
+19,Amandine,913
+20,Iris,912
+21,Irina,914
+23,Andrei,916
+52,Daria,912
+-19,Carla,917
+-27,Vlad,915
+-30,Carla,916
+53,Bogdan,914
+-13,Roxana,918
+29,Daria,914
+-23,Bogdan,913
